@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/stability-beta-%23009680)
 
-# <p align="justify"> TRACKER CATTLE COLLAR: TTN LORA TRACKER TO MONITOR COWS AND CHECK THE EVIDENCE OF WOLF ATTACKS </p>
+# <p align="justify"> CATTLE TRACKER COLLAR: TTN LORA TRACKER TO MONITOR COWS AND CHECK THE EVIDENCE OF WOLF ATTACKS </p>
 
 <div align="center">
 
@@ -130,7 +130,7 @@ ___
 > Sketched it looks the following way:
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/TTN-LoRa-tracker/blob/main/pics/tracker_lora_schematic_schematic.jpg" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/Crotal-CubeCell-Junio-2023/blob/main/pics/vaquer_tracker_2023__schematic.jpg" width="600"  style="margin: 10px;"/>
 </div>
 <br/>
 
